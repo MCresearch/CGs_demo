@@ -8,9 +8,9 @@
 #endif
 
 #include <ostream>
-#include<cassert>
+#include <cassert>
 
-#include<fstream>// test
+#include <fstream>// test
 
 namespace ModuleBase
 {
